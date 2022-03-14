@@ -1,0 +1,23 @@
+@media(max-width: 1200px){
+    .container{
+        width: 90%;
+    }
+}
+
+
+
+
+
+@media(max-width: 768px){
+.menu-icon{
+    display: block;
+}
+nav ul li{ display: 
+    none;}
+}
+@media (max-width: 650px) {
+    .cards {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
